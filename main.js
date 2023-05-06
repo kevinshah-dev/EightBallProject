@@ -1,3 +1,5 @@
+//CREATED BY KEVIN SHAH
+
 let userName = ''; //ENTER NAME HERE
 
 userName ? console.log(`Hello, ${userName}`) : console.log('Hello!');
